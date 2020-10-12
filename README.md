@@ -7,5 +7,5 @@
 # - How does the price of living alone compare to living with roommates?
 #
 # Data taken from Apartment List (https://www.apartmentlist.com/research/category/data-rent-estimates)
-#
+# Note - Code is interactive if ran as a Jupyter Notebook
 # Mark Aguila
